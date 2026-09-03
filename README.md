@@ -1,3 +1,5 @@
+<img width="2000" height="528" alt="cover" src="https://github.com/user-attachments/assets/232800c8-f4b9-4362-b0c5-650565ce038c" />
+
 # Base90-vs-Base60-Neuroacoustic-Benchmark
 A comparative neuroacoustic benchmark evaluating the precision Base-90 resonance framework against traditional Base-60 audio architectures, leveraging real-time wearable biosensor telemetry to demonstrate predictive vagal entrainment, autonomic resilience, and closed-loop longevity applications.
 # Base-90 vs. Base-60: Neuroacoustic Deceleration Benchmark & Autonomic Vagal Entrainment Framework
@@ -9,8 +11,10 @@ This benchmark study evaluates the physiological efficacy of the Sovereign Nonag
 
 ## 📊 Empirical Methodology & Comparative Analysis
 An A/B comparative field trial was executed on an elite high-performance athlete (MMA, Dubai) exhibiting acute sympathetic overdrive and sleep latency disruption. The subject underwent two distinct 35-minute neuroacoustic sessions under identical environmental baselines.
+---
+<img width="2480" height="3222" alt="ultrahuman-comparison" src="https://github.com/user-attachments/assets/c7e83702-2fb4-4514-b33b-6e46356f4bb7" />
 
-### 🖼️ [PLACE DETAILED COMPARISON IMAGE HERE: `ultrahuman-comparison.png`]
+### 🖼️ [DETAILED COMPARISON IMAGE ]
 *(Incorporate the side-by-side combined image highlighting the dark Base-90 telemetry vs. the light Base-60 telemetry at the absolute top of this section).*
 
 ### 📈 Comparative Biometric Matrix
